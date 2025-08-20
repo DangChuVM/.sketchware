@@ -1,0 +1,154 @@
+[
+  {
+    "code": "%1$s.getSettings().setJavaScriptEnabled(%2$s);",
+    "imports": "",
+    "color": "#F06292",
+    "name": "JavaScript",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật JavaScript  %b"
+  },
+  {
+    "code": "%1$s.getSettings().setDomStorageEnabled(%2$s);",
+    "color": "#F06292",
+    "name": "DomStorage",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật DomStorage %b"
+  },
+  {
+    "code": "%1$s.getSettings().setJavaScriptCanOpenWindowsAutomatically(%2$s);",
+    "imports": "",
+    "color": "#F06292",
+    "name": "JavaScript Windows",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật JavaScriptWinDows %b"
+  },
+  {
+    "code": "%1$s.getSettings().setLoadWithOverviewMode(%2$s);",
+    "color": "#F06292",
+    "name": "Overview",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật Overview %b"
+  },
+  {
+    "code": "%1$s.getSettings().setUseWideViewPort(%2$s);",
+    "color": "#F06292",
+    "name": "ViewPort",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật ViewPort %b"
+  },
+  {
+    "code": "%1$s.getSettings().setSupportZoom(%2$s);",
+    "color": "#F06292",
+    "name": "WebZoom",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật WebZoom %b"
+  },
+  {
+    "code": "%1$s.getSettings().setBuiltInZoomControls(%2$s);",
+    "color": "#F06292",
+    "name": "ZoomControl",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật WebZoomControl %b"
+  },
+  {
+    "code": "%1$s.getSettings().setDisplayZoomControls(%2$s);",
+    "color": "#F06292",
+    "name": "WebZoomControlDisplay",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật WebZoomControlDisplay %b"
+  },
+  {
+    "code": "%1$s.getSettings().setAllowContentAccess(%2$s);",
+    "color": "#F06292",
+    "name": "Content",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật WebContent %b"
+  },
+  {
+    "code": "%1$s.getSettings().setAllowFileAccess(%2$s);",
+    "color": "#F06292",
+    "name": "AllowsFiles",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật AllowsFiles %b"
+  },
+  {
+    "code": "%1$s.setScrollBarStyle(android.view.View.SCROLLBARS_INSIDE_OVERLAY);",
+    "imports": "",
+    "color": "#F06292",
+    "name": "Cộn mượt",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật Cuộn mượt %b"
+  },
+  {
+    "code": "%1$s.getSettings().setMediaPlaybackRequiresUserGesture(%2$s);",
+    "imports": "",
+    "color": "#F06292",
+    "name": "Mediallayback",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật MediaPlayBack %b"
+  },
+  {
+    "code": "if (android.os.Build.VERSION.SDK_INT \u003e\u003d android.os.Build.VERSION_CODES.TIRAMISU) {\n\tif (checkSelfPermission(android.Manifest.permission.POST_NOTIFICATIONS) !\u003d PackageManager.PERMISSION_GRANTED) {\n\t\trequestPermissions(new String[]{android.Manifest.permission.POST_NOTIFICATIONS}, 1001);\n\t}\n}",
+    "imports": "android.Manifest\nandroid.content.pm.PackageManager\nandroid.os.Build",
+    "color": "#F06292",
+    "name": "Xin quyền thông báo",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "Xin quyền Thông báo"
+  },
+  {
+    "code": "%1$s.setColorSchemeResources(\n    android.R.color.holo_blue_bright,\n    android.R.color.holo_green_light,\n    android.R.color.holo_orange_light,\n    android.R.color.holo_red_light\n);\n%1$s.setOnRefreshListener(() -\u003e {\n%2$s.reload();\n});\n%2$s.setWebViewClient(new WebViewClient() {\n    @Override\n    public void onPageFinished(WebView view, String url) {\n        super.onPageFinished(view, url);\n        %1$s.setRefreshing(false);\n    }\n});",
+    "imports": "",
+    "color": "#F06292",
+    "name": "Swipe refresh",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "Swipe refresh %m.swiperefreshlayout và %m.webview"
+  },
+  {
+    "code": "android.webkit.CookieManager cm \u003d android.webkit.CookieManager.getInstance(); cm.setAcceptCookie(true); cm.setAcceptThirdPartyCookies(%1$s, true);",
+    "imports": "",
+    "color": "#F06292",
+    "name": "Bật Cookie Thứ 3",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "%m.webview Bật Cookie Thứ Ba"
+  },
+  {
+    "code": "if (Build.VERSION.SDK_INT \u003e\u003d Build.VERSION_CODES.M) {\n\tif (checkSelfPermission(Manifest.permission.%1$s) \u003d\u003d PackageManager.PERMISSION_DENIED) {\n\t\trequestPermissions(new String[] {\n\t\t\tManifest.permission.%1$s\n\t\t}, 1000);\n\t}\n}\n",
+    "imports": "android.Manifest\nandroid.content.pm.PackageManager\nandroidx.core.content.ContextCompat\nandroidx.core.app.ActivityCompat",
+    "color": "#F06292",
+    "name": "cấp quyền",
+    "typeName": "",
+    "palette": "9",
+    "type": " ",
+    "spec": "Cấp quyền %s.inputOnly"
+  }
+]

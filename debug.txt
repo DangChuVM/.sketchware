@@ -1,0 +1,1211 @@
+2025-08-21T02:04:49.043+0700 D/AppBuilder: Running Sketchware Pro v7.0.0-SNAPSHOT-a1d43bd (150)
+2025-08-21T02:04:49.064+0700 D/AppBuilder: base.apk's size is 128 MB (127551930 B)
+2025-08-21T02:04:49.511+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/appcompat-1.4.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/appcompat-1.4.0.zip]
+2025-08-21T02:04:50.269+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/core-1.7.0.zip]
+2025-08-21T02:04:50.392+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/lifecycle-runtime-2.4.0.zip]
+2025-08-21T02:04:50.409+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-2.3.1/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/lifecycle-viewmodel-2.3.1.zip]
+2025-08-21T02:04:50.427+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/savedstate-1.1.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/savedstate-1.1.0.zip]
+2025-08-21T02:04:50.445+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/appcompat-resources-1.4.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/appcompat-resources-1.4.0.zip]
+2025-08-21T02:04:50.464+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/drawerlayout-1.1.1/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/drawerlayout-1.1.1.zip]
+2025-08-21T02:04:50.482+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/startup-runtime-1.1.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/startup-runtime-1.1.0.zip]
+2025-08-21T02:04:50.501+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/fragment-1.3.6/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/fragment-1.3.6.zip]
+2025-08-21T02:04:50.528+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/coordinatorlayout-1.1.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/coordinatorlayout-1.1.0.zip]
+2025-08-21T02:04:50.548+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/material-1.6.1/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/material-1.6.1.zip]
+2025-08-21T02:04:51.235+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/cardview-1.0.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/cardview-1.0.0.zip]
+2025-08-21T02:04:51.253+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/constraintlayout-2.1.2/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/constraintlayout-2.1.2.zip]
+2025-08-21T02:04:51.292+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/recyclerview-1.2.1/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/recyclerview-1.2.1.zip]
+2025-08-21T02:04:51.309+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/swiperefreshlayout-1.2.0-alpha01/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/swiperefreshlayout-1.2.0-alpha01.zip]
+2025-08-21T02:04:51.328+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/transition-1.4.1/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/transition-1.4.1.zip]
+2025-08-21T02:04:51.346+0700 D/AppBuilder:cBILR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /data/user/0/pro.sketchware/files/libs/libs/viewpager2-1.0.0/res, -o, /data/user/0/pro.sketchware/cache/compiledLibs/viewpager2-1.0.0.zip]
+2025-08-21T02:04:51.359+0700 D/AppBuilder:c: Compiling built-in library resources took 1852 ms
+2025-08-21T02:04:51.361+0700 D/AppBuilder:cLLR: About to compile 0 local libraries
+2025-08-21T02:04:51.362+0700 D/AppBuilder:c: Compiling local library resources took 2 ms
+2025-08-21T02:04:51.364+0700 D/AppBuilder:cPR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /storage/emulated/0/.sketchware/mysc/601/app/src/main/res, -o, /storage/emulated/0/.sketchware/mysc/601/bin/res/project.zip]
+2025-08-21T02:04:51.491+0700 D/AppBuilder:c: Compiling project generated resources took 129 ms
+2025-08-21T02:04:51.494+0700 D/AppBuilder:cIR: Now executing: [/data/user/0/pro.sketchware/cache/aapt2, compile, --dir, /storage/emulated/0/.sketchware/data/601/files/resource, -o, /storage/emulated/0/.sketchware/mysc/601/bin/res/project-imported.zip]
+2025-08-21T02:04:51.523+0700 D/AppBuilder:c: Compiling project imported resources took 31 ms
+2025-08-21T02:04:51.539+0700 D/AppBuilder:l: [/data/user/0/pro.sketchware/cache/aapt2, link, --allow-reserved-package-id, --auto-add-overlay, --no-version-vectors, --no-version-transitions, --min-sdk-version, 28, --target-sdk-version, 34, --version-code, 1, --version-name, 1.0, -I, /data/user/0/pro.sketchware/files/libs/android.jar, -A, /storage/emulated/0/.sketchware/mysc/601/app/src/main/assets, -A, /storage/emulated/0/.sketchware/data/601/files/assets, -R, /data/user/0/pro.sketchware/cache/compiledLibs/appcompat-1.4.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/core-1.7.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/lifecycle-runtime-2.4.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/lifecycle-viewmodel-2.3.1.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/savedstate-1.1.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/appcompat-resources-1.4.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/drawerlayout-1.1.1.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/startup-runtime-1.1.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/fragment-1.3.6.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/coordinatorlayout-1.1.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/material-1.6.1.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/cardview-1.0.0.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/constraintlayout-2.1.2.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/recyclerview-1.2.1.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/swiperefreshlayout-1.2.0-alpha01.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/transition-1.4.1.zip, -R, /data/user/0/pro.sketchware/cache/compiledLibs/viewpager2-1.0.0.zip, -R, /storage/emulated/0/.sketchware/mysc/601/bin/res/project.zip, -R, /storage/emulated/0/.sketchware/mysc/601/bin/res/project-imported.zip, -R, /storage/emulated/0/.sketchware/mysc/601/bin/res/project.zip, -R, /storage/emulated/0/.sketchware/mysc/601/bin/res/project-imported.zip, --java, /storage/emulated/0/.sketchware/mysc/601/gen, --proguard, /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro, --manifest, /storage/emulated/0/.sketchware/mysc/601/app/src/main/AndroidManifest.xml, --extra-packages, androidx.appcompat:androidx.core:androidx.lifecycle.runtime:androidx.lifecycle.viewmodel:androidx.savedstate:androidx.appcompat.resources:androidx.drawerlayout:androidx.startup:androidx.fragment:androidx.coordinatorlayout:com.google.android.material:androidx.cardview:androidx.constraintlayout.widget:androidx.recyclerview:androidx.swiperefreshlayout:androidx.transition:androidx.viewpager2:, -o, /storage/emulated/0/.sketchware/mysc/601/bin/ChuongTimer.apk.res]
+2025-08-21T02:04:56.959+0700 D/AppBuilder:c: Linking resources took 5435 ms
+2025-08-21T02:04:56.960+0700 D/AppBuilder: Compiling resources took 7460 ms
+2025-08-21T02:04:57.097+0700 D/AppBuilder: Running Eclipse compiler with these arguments: [-11, -nowarn, -d, /storage/emulated/0/.sketchware/mysc/601/bin/classes, -cp, /storage/emulated/0/.sketchware/mysc/601/bin/classes:/data/user/0/pro.sketchware/files/libs/android.jar:/data/user/0/pro.sketchware/files/libs/libs/http-legacy-android-28/classes.jar:/data/user/0/pro.sketchware/files/libs/core-lambda-stubs.jar:/data/user/0/pro.sketchware/files/libs/libs/appcompat-1.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/activity-1.3.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/annotation-1.3.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/collection-1.2.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/annotation-experimental-1.2.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/concurrent-futures-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/listenablefuture-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/core-common-2.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/core-runtime-2.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-common-2.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/versionedparcelable-1.1.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-2.3.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-savedstate-2.3.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/savedstate-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-livedata-core-2.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/tracing-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/appcompat-resources-1.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/vectordrawable-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/vectordrawable-animated-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/interpolator-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/cursoradapter-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/drawerlayout-1.1.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/customview-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/emoji2-1.0.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-process-2.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/startup-runtime-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/emoji2-views-helper-1.0.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/fragment-1.3.6/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/loader-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/lifecycle-livedata-2.4.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/viewpager-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/resourceinspection-annotation-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/coordinatorlayout-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/material-1.6.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/cardview-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/constraintlayout-2.1.2/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/constraintlayout-core-1.0.2/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/dynamic-animation-1.1.0-alpha03/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/recyclerview-1.2.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/legacy-support-core-ui-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/asynclayoutinflater-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/legacy-support-core-utils-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/documentfile-1.0.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/localbroadcastmanager-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/print-1.0.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/slidingpanelayout-1.1.0/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/swiperefreshlayout-1.2.0-alpha01/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/transition-1.4.1/classes.jar:/data/user/0/pro.sketchware/files/libs/libs/viewpager2-1.0.0/classes.jar:, -proc:none, /storage/emulated/0/.sketchware/mysc/601/app/src/main/java, /storage/emulated/0/.sketchware/mysc/601/gen, /storage/emulated/0/.sketchware/data/601/files/java]
+2025-08-21T02:05:02.615+0700 D/AppBuilder: System.out of Eclipse compiler: 
+2025-08-21T02:05:02.615+0700 D/AppBuilder: System.err of Eclipse compiler: 
+2025-08-21T02:05:02.616+0700 D/AppBuilder: Compiling Java files took 5554 ms
+2025-08-21T02:05:02.657+0700 E/StringFog: Failed to run StringFog
+java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source:98)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source:2)
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source:5)
+	at com.github.megatronking.stringfog.plugin.StringFogClassInjector.processClass(Unknown Source:2)
+	at com.github.megatronking.stringfog.plugin.StringFogClassInjector.doFog2Class(Unknown Source:27)
+	at com.github.megatronking.stringfog.plugin.StringFogClassInjector.doFog2ClassInDir(Unknown Source:63)
+	at com.github.megatronking.stringfog.plugin.StringFogClassInjector.doFog2ClassInDir(Unknown Source:19)
+	at com.github.megatronking.stringfog.plugin.StringFogClassInjector.doFog2ClassInDir(Unknown Source:19)
+	at com.github.megatronking.stringfog.plugin.StringFogClassInjector.doFog2ClassInDir(Unknown Source:19)
+	at a.a.a.ProjectBuilder.runStringfog(ProjectBuilder.java:986)
+	at mod.hey.studios.project.stringfog.StringfogHandler.start(StringfogHandler.java:64)
+	at com.besome.sketch.design.DesignActivity$BuildTask.doInBackground(DesignActivity.java:1152)
+	at com.besome.sketch.design.DesignActivity$BuildTask.$r8$lambda$0AmVsWQJ9oulgeP8eMAUbl0tGkA(Unknown Source:0)
+	at com.besome.sketch.design.DesignActivity$BuildTask$$ExternalSyntheticLambda1.run(D8$$SyntheticClass:0)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1156)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:651)
+	at java.lang.Thread.run(Thread.java:1119)
+
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 9, column 1:
+Proguard configuration rule does not match anything: `-keep public class com.google.vending.licensing.ILicensingService {
+  <init>();
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 10, column 1:
+Proguard configuration rule does not match anything: `-keep public class com.android.vending.licensing.ILicensingService {
+  <init>();
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 12, column 1:
+Proguard configuration rule does not match anything: `-keepclasseswithmembers,allowshrinking class * {
+  native <methods>;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 16, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers public class * extends android.view.View {
+  void set*(***);
+  *** get*();
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 21, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class * extends android.app.Activity {
+  public void *(android.view.View);
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 25, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers enum * {
+  public static **[] values();
+  public static ** valueOf(java.lang.String);
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 30, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class * implements android.os.Parcelable {
+  public static final android.os.Parcelable$Creator CREATOR;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 40, column 1:
+Proguard configuration rule does not match anything: `-keep class android.support.annotation.Keep {
+  <init>();
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 42, column 1:
+Proguard configuration rule does not match anything: `-keep @android.support.annotation.Keep class * {
+  *;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 44, column 1:
+Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+  @android.support.annotation.Keep <methods>;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 48, column 1:
+Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+  @android.support.annotation.Keep <fields>;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 52, column 1:
+Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+  @android.support.annotation.Keep <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 56, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class * {
+  @android.webkit.JavascriptInterface <methods>;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 61, column 1:
+Proguard configuration rule does not match anything: `-keep class android.arch.** {
+  *;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 62, column 1:
+Proguard configuration rule does not match anything: `-keep class android.lifecycle.** {
+  *;
+}`
+Info in /storage/emulated/0/.sketchware/libs/android-proguard-rules.pro at line 66, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.arch.** {
+  *;
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 2, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.startup.InitializationProvider {
+  <init>();
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 18, column 1:
+Proguard configuration rule does not match anything: `-keep class android.widget.Space {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 21, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.app.AlertController$RecycleListView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 24, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.view.menu.ActionMenuItemView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 27, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.view.menu.ExpandedMenuView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 32, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.view.menu.ListMenuItemView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 35, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ActionBarContainer {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 39, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ActionBarContextView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 42, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ActionBarOverlayLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 45, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ActionMenuView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 48, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 53, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.AlertDialogLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 58, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ButtonBarLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 61, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ContentFrameLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 66, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.DialogTitle {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 69, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.FitWindowsFrameLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 73, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.FitWindowsLinearLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 76, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 79, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.Toolbar {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 83, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.ViewStubCompat {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 86, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.constraintlayout.widget.Barrier {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 89, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.constraintlayout.widget.ConstraintLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 92, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.constraintlayout.widget.Guideline {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 95, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.coordinatorlayout.widget.CoordinatorLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 100, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.core.widget.NestedScrollView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 104, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.fragment.app.FragmentContainerView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 108, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.recyclerview.widget.RecyclerView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 114, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.appbar.MaterialToolbar {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 120, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.button.MaterialButton {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 124, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.button.MaterialButtonToggleGroup {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 130, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.chip.Chip {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 133, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.chip.ChipGroup {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 136, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.datepicker.MaterialCalendarGridView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 141, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.internal.BaselineLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 146, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.internal.CheckableImageButton {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 149, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.internal.NavigationMenuItemView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 152, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.internal.NavigationMenuView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 156, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 160, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.snackbar.SnackbarContentLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 165, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.textfield.TextInputEditText {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 171, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.textfield.TextInputLayout {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 178, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.textview.MaterialTextView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 181, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.timepicker.ChipTextInputComboView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 184, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.timepicker.ClockFaceView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 187, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.timepicker.ClockHandView {
+  <init>(...);
+}`
+Info in /storage/emulated/0/.sketchware/mysc/601/bin/aapt_rules.pro at line 190, column 1:
+Proguard configuration rule does not match anything: `-keep class com.google.android.material.timepicker.TimePickerView {
+  <init>(...);
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/appcompat-1.4.0/proguard.txt at line 17, column 1:
+Proguard configuration rule does not match anything: `-keep class androidx.appcompat.widget.SearchView {
+  <init>(...);
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/appcompat-1.4.0/proguard.txt at line 20, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation,allowshrinking class androidx.appcompat.widget.AppCompatTextViewAutoSizeHelper$Impl* {
+  <methods>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/proguard.txt at line 2, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation,allowshrinking class androidx.core.view.ViewCompat$Api* {
+  <methods>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/proguard.txt at line 5, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation,allowshrinking class androidx.core.view.WindowInsetsCompat$*Impl* {
+  <methods>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/proguard.txt at line 8, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation,allowshrinking class androidx.core.app.NotificationCompat$*$Api*Impl {
+  <methods>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/proguard.txt at line 11, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation,allowshrinking class androidx.core.os.UserHandleCompat$Api*Impl {
+  <methods>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/proguard.txt at line 14, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation,allowshrinking class androidx.core.widget.EdgeEffectCompat$Api*Impl {
+  <methods>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/proguard.txt at line 6, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers enum androidx.lifecycle.Lifecycle$Event {
+  <fields>;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/proguard.txt at line 10, column 1:
+Proguard configuration rule does not match anything: `-keep !interface * implements androidx.lifecycle.LifecycleObserver {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/proguard.txt at line 13, column 1:
+Proguard configuration rule does not match anything: `-keep class * implements androidx.lifecycle.GeneratedAdapter {
+  <init>(...);
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/proguard.txt at line 17, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class ** {
+  @androidx.lifecycle.OnLifecycleEvent *;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/proguard.txt at line 23, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class androidx.lifecycle.ReportFragment$LifecycleCallbacks {
+  *;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/versionedparcelable-1.1.1/proguard.txt at line 1, column 1:
+Proguard configuration rule does not match anything: `-keep class * implements androidx.versionedparcelable.VersionedParcelable {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/versionedparcelable-1.1.1/proguard.txt at line 2, column 1:
+Proguard configuration rule does not match anything: `-keep public class android.support.**Parcelizer {
+  *;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/versionedparcelable-1.1.1/proguard.txt at line 3, column 1:
+Proguard configuration rule does not match anything: `-keep public class androidx.**Parcelizer {
+  *;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/versionedparcelable-1.1.1/proguard.txt at line 4, column 1:
+Proguard configuration rule does not match anything: `-keep public class androidx.versionedparcelable.ParcelImpl {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-2.3.1/proguard.txt at line 1, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.ViewModel {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-2.3.1/proguard.txt at line 5, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.AndroidViewModel {
+  <init>(android.app.Application);
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-savedstate-2.3.1/proguard.txt at line 1, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.ViewModel {
+  <init>(androidx.lifecycle.SavedStateHandle);
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-savedstate-2.3.1/proguard.txt at line 5, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.AndroidViewModel {
+  <init>(android.app.Application,androidx.lifecycle.SavedStateHandle);
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/savedstate-1.1.0/proguard.txt at line 15, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * implements androidx.savedstate.SavedStateRegistry$AutoRecreated {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/vectordrawable-animated-1.1.0/proguard.txt at line 16, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class androidx.vectordrawable.graphics.drawable.VectorDrawableCompat$* {
+  void set*(***);
+  *** get*();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/lifecycle-process-2.4.0/proguard.txt at line 2, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class * extends androidx.lifecycle.EmptyActivityLifecycleCallbacks {
+  *;
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/startup-runtime-1.1.0/proguard.txt at line 2, column 1:
+Proguard configuration rule does not match anything: `-keep,allowshrinking class * extends androidx.startup.Initializer {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/startup-runtime-1.1.0/proguard.txt at line 7, column 1:
+Proguard configuration rule does not match anything: `-keep class * extends androidx.startup.Initializer {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/fragment-1.3.6/proguard.txt at line 16, column 1:
+Proguard configuration rule does not match anything: `-if public class ** extends androidx.fragment.app.Fragment
+-keepclasseswithmembers,allowrepackaging,allowobfuscation public class <1> {
+  public <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/coordinatorlayout-1.1.0/proguard.txt at line 16, column 1:
+Proguard configuration rule does not match anything: `-keep public class * extends androidx.coordinatorlayout.widget.CoordinatorLayout$Behavior {
+  public <init>(android.content.Context,android.util.AttributeSet);
+  public <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/material-1.6.1/proguard.txt at line 42, column 1:
+Proguard configuration rule does not match anything: `-if class androidx.appcompat.app.AppCompatViewInflater
+-keep class com.google.android.material.theme.MaterialComponentsViewInflater {
+  <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/recyclerview-1.2.1/proguard.txt at line 17, column 1:
+Proguard configuration rule does not match anything: `-keep public class * extends androidx.recyclerview.widget.RecyclerView$LayoutManager {
+  public <init>(android.content.Context,android.util.AttributeSet,int,int);
+  public <init>();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/recyclerview-1.2.1/proguard.txt at line 22, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class androidx.recyclerview.widget.RecyclerView {
+  public void suppressLayout(boolean);
+  public boolean isLayoutSuppressed();
+}`
+Info in /data/user/0/pro.sketchware/files/libs/libs/transition-1.4.1/proguard.txt at line 16, column 1:
+Proguard configuration rule does not match anything: `-keepclassmembers class androidx.transition.ChangeBounds$* extends android.animation.AnimatorListenerAdapter {
+  androidx.transition.ChangeBounds$ViewBounds mViewBounds;
+}`
+2025-08-21T02:05:49.793+0700 D/AppBuilder: R8 took 47121 ms
+2025-08-21T02:05:49.819+0700 D/AppBuilder: Will merge these 54 DEX files to classes.dex: [/data/user/0/pro.sketchware/files/libs/dexs/http-legacy-android-28.dex, /data/user/0/pro.sketchware/files/libs/dexs/appcompat-1.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/activity-1.3.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/annotation-1.3.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/collection-1.2.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/core-1.7.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/annotation-experimental-1.2.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/concurrent-futures-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/listenablefuture-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-runtime-2.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/core-common-2.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/core-runtime-2.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-common-2.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/versionedparcelable-1.1.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-viewmodel-2.3.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-viewmodel-savedstate-2.3.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/savedstate-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-livedata-core-2.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/tracing-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/appcompat-resources-1.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/vectordrawable-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/vectordrawable-animated-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/interpolator-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/cursoradapter-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/drawerlayout-1.1.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/customview-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/emoji2-1.0.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-process-2.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/startup-runtime-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/emoji2-views-helper-1.0.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/fragment-1.3.6.dex, /data/user/0/pro.sketchware/files/libs/dexs/loader-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/lifecycle-livedata-2.4.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/viewpager-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/resourceinspection-annotation-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/coordinatorlayout-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/material-1.6.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/cardview-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/constraintlayout-2.1.2.dex, /data/user/0/pro.sketchware/files/libs/dexs/constraintlayout-core-1.0.2.dex, /data/user/0/pro.sketchware/files/libs/dexs/dynamic-animation-1.1.0-alpha03.dex, /data/user/0/pro.sketchware/files/libs/dexs/recyclerview-1.2.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/legacy-support-core-ui-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/asynclayoutinflater-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/legacy-support-core-utils-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/documentfile-1.0.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/localbroadcastmanager-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/print-1.0.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/slidingpanelayout-1.1.0.dex, /data/user/0/pro.sketchware/files/libs/dexs/swiperefreshlayout-1.2.0-alpha01.dex, /data/user/0/pro.sketchware/files/libs/dexs/transition-1.4.1.dex, /data/user/0/pro.sketchware/files/libs/dexs/viewpager2-1.0.0.dex, /storage/emulated/0/.sketchware/mysc/601/bin/dex/classes2.dex, /storage/emulated/0/.sketchware/mysc/601/bin/dex/classes.dex]
+2025-08-21T02:05:49.820+0700 D/AppBuilder: Skipped merging DEX files due to debug build with minSdkVersion >= 21
+Packaging ChuongTimer.apk.unsigned
+/storage/emulated/0/.sketchware/mysc/601/bin/ChuongTimer.apk.res:
+=> AndroidManifest.xml
+=> res/anim/abc_fade_in.xml
+=> res/anim/abc_fade_out.xml
+=> res/anim/abc_grow_fade_in_from_bottom.xml
+=> res/anim/abc_popup_enter.xml
+=> res/anim/abc_popup_exit.xml
+=> res/anim/abc_shrink_fade_out_from_bottom.xml
+=> res/anim/abc_slide_in_bottom.xml
+=> res/anim/abc_slide_in_top.xml
+=> res/anim/abc_slide_out_bottom.xml
+=> res/anim/abc_slide_out_top.xml
+=> res/anim/abc_tooltip_enter.xml
+=> res/anim/abc_tooltip_exit.xml
+=> res/anim/btn_checkbox_to_checked_box_inner_merged_animation.xml
+=> res/anim/btn_checkbox_to_checked_box_outer_merged_animation.xml
+=> res/anim/btn_checkbox_to_checked_icon_null_animation.xml
+=> res/anim/btn_checkbox_to_unchecked_box_inner_merged_animation.xml
+=> res/anim/btn_checkbox_to_unchecked_check_path_merged_animation.xml
+=> res/anim/btn_checkbox_to_unchecked_icon_null_animation.xml
+=> res/anim/btn_radio_to_off_mtrl_dot_group_animation.xml
+=> res/anim/btn_radio_to_off_mtrl_ring_outer_animation.xml
+=> res/anim/btn_radio_to_off_mtrl_ring_outer_path_animation.xml
+=> res/anim/btn_radio_to_on_mtrl_dot_group_animation.xml
+=> res/anim/btn_radio_to_on_mtrl_ring_outer_animation.xml
+=> res/anim/btn_radio_to_on_mtrl_ring_outer_path_animation.xml
+=> res/anim-v21/design_bottom_sheet_slide_in.xml
+=> res/anim-v21/design_bottom_sheet_slide_out.xml
+=> res/anim/design_snackbar_in.xml
+=> res/anim/design_snackbar_out.xml
+=> res/anim-v21/fragment_fast_out_extra_slow_in.xml
+=> res/anim-v21/mtrl_bottom_sheet_slide_in.xml
+=> res/anim-v21/mtrl_bottom_sheet_slide_out.xml
+=> res/anim/mtrl_card_lowers_interpolator.xml
+=> res/animator-v21/design_appbar_state_list_animator.xml
+=> res/animator/design_fab_hide_motion_spec.xml
+=> res/animator/design_fab_show_motion_spec.xml
+=> res/animator/fragment_close_enter.xml
+=> res/animator/fragment_close_exit.xml
+=> res/animator/fragment_fade_enter.xml
+=> res/animator/fragment_fade_exit.xml
+=> res/animator/fragment_open_enter.xml
+=> res/animator/fragment_open_exit.xml
+=> res/animator/linear_indeterminate_line1_head_interpolator.xml
+=> res/animator/linear_indeterminate_line1_tail_interpolator.xml
+=> res/animator/linear_indeterminate_line2_head_interpolator.xml
+=> res/animator/linear_indeterminate_line2_tail_interpolator.xml
+=> res/animator/m3_btn_elevated_btn_state_list_anim.xml
+=> res/animator/m3_btn_state_list_anim.xml
+=> res/animator/m3_card_elevated_state_list_anim.xml
+=> res/animator/m3_card_state_list_anim.xml
+=> res/animator/m3_chip_state_list_anim.xml
+=> res/animator/m3_elevated_chip_state_list_anim.xml
+=> res/animator/mtrl_btn_state_list_anim.xml
+=> res/animator/mtrl_btn_unelevated_state_list_anim.xml
+=> res/animator/mtrl_card_state_list_anim.xml
+=> res/animator/mtrl_chip_state_list_anim.xml
+=> res/animator/mtrl_extended_fab_change_size_collapse_motion_spec.xml
+=> res/animator/mtrl_extended_fab_change_size_expand_motion_spec.xml
+=> res/animator/mtrl_extended_fab_hide_motion_spec.xml
+=> res/animator/mtrl_extended_fab_show_motion_spec.xml
+=> res/animator/mtrl_extended_fab_state_list_animator.xml
+=> res/animator/mtrl_fab_hide_motion_spec.xml
+=> res/animator/mtrl_fab_show_motion_spec.xml
+=> res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+=> res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+=> res/color/abc_background_cache_hint_selector_material_dark.xml
+=> res/color/abc_background_cache_hint_selector_material_light.xml
+=> res/color-v23/abc_btn_colored_borderless_text_material.xml
+=> res/color-v23/abc_btn_colored_text_material.xml
+=> res/color-v23/abc_color_highlight_material.xml
+=> res/color/abc_hint_foreground_material_dark.xml
+=> res/color/abc_hint_foreground_material_light.xml
+=> res/color/abc_primary_text_disable_only_material_dark.xml
+=> res/color/abc_primary_text_disable_only_material_light.xml
+=> res/color/abc_primary_text_material_dark.xml
+=> res/color/abc_primary_text_material_light.xml
+=> res/color/abc_search_url_text.xml
+=> res/color/abc_secondary_text_material_dark.xml
+=> res/color/abc_secondary_text_material_light.xml
+=> res/color-v23/abc_tint_btn_checkable.xml
+=> res/color-v23/abc_tint_default.xml
+=> res/color-v23/abc_tint_edittext.xml
+=> res/color-v23/abc_tint_seek_thumb.xml
+=> res/color-v23/abc_tint_spinner.xml
+=> res/color-v23/abc_tint_switch_track.xml
+=> res/color/checkbox_themeable_attribute_color.xml
+=> res/color/design_box_stroke_color.xml
+=> res/color/design_error.xml
+=> res/color/design_icon_tint.xml
+=> res/color/m3_appbar_overlay_color.xml
+=> res/color/m3_assist_chip_icon_tint_color.xml
+=> res/color/m3_assist_chip_stroke_color.xml
+=> res/color/m3_button_background_color_selector.xml
+=> res/color/m3_button_foreground_color_selector.xml
+=> res/color/m3_button_outline_color_selector.xml
+=> res/color/m3_button_ripple_color.xml
+=> res/color/m3_button_ripple_color_selector.xml
+=> res/color/m3_calendar_item_disabled_text.xml
+=> res/color/m3_calendar_item_stroke_color.xml
+=> res/color/m3_card_foreground_color.xml
+=> res/color/m3_card_ripple_color.xml
+=> res/color/m3_card_stroke_color.xml
+=> res/color/m3_chip_assist_text_color.xml
+=> res/color/m3_chip_background_color.xml
+=> res/color/m3_chip_ripple_color.xml
+=> res/color/m3_chip_stroke_color.xml
+=> res/color/m3_chip_text_color.xml
+=> res/color/m3_dark_default_color_primary_text.xml
+=> res/color/m3_dark_default_color_secondary_text.xml
+=> res/color/m3_dark_highlighted_text.xml
+=> res/color/m3_dark_hint_foreground.xml
+=> res/color/m3_dark_primary_text_disable_only.xml
+=> res/color/m3_default_color_primary_text.xml
+=> res/color/m3_default_color_secondary_text.xml
+=> res/color/m3_elevated_chip_background_color.xml
+=> res/color/m3_highlighted_text.xml
+=> res/color/m3_hint_foreground.xml
+=> res/color/m3_navigation_bar_item_with_indicator_icon_tint.xml
+=> res/color/m3_navigation_bar_item_with_indicator_label_tint.xml
+=> res/color/m3_navigation_bar_ripple_color_selector.xml
+=> res/color/m3_navigation_item_background_color.xml
+=> res/color/m3_navigation_item_icon_tint.xml
+=> res/color/m3_navigation_item_ripple_color.xml
+=> res/color/m3_navigation_item_text_color.xml
+=> res/color/m3_popupmenu_overlay_color.xml
+=> res/color/m3_primary_text_disable_only.xml
+=> res/color/m3_radiobutton_ripple_tint.xml
+=> res/color/m3_selection_control_button_tint.xml
+=> res/color/m3_selection_control_ripple_color_selector.xml
+=> res/color/m3_slider_active_track_color.xml
+=> res/color/m3_slider_halo_color.xml
+=> res/color/m3_slider_inactive_track_color.xml
+=> res/color/m3_slider_thumb_color.xml
+=> res/color/m3_switch_thumb_tint.xml
+=> res/color/m3_switch_track_tint.xml
+=> res/color/m3_tabs_icon_color.xml
+=> res/color/m3_tabs_ripple_color.xml
+=> res/color/m3_text_button_background_color_selector.xml
+=> res/color/m3_text_button_foreground_color_selector.xml
+=> res/color/m3_text_button_ripple_color_selector.xml
+=> res/color/m3_textfield_filled_background_color.xml
+=> res/color/m3_textfield_indicator_text_color.xml
+=> res/color/m3_textfield_input_text_color.xml
+=> res/color/m3_textfield_label_color.xml
+=> res/color/m3_textfield_stroke_color.xml
+=> res/color/m3_timepicker_button_background_color.xml
+=> res/color/m3_timepicker_button_ripple_color.xml
+=> res/color/m3_timepicker_button_text_color.xml
+=> res/color/m3_timepicker_clock_text_color.xml
+=> res/color/m3_timepicker_display_background_color.xml
+=> res/color/m3_timepicker_display_ripple_color.xml
+=> res/color/m3_timepicker_display_stroke_color.xml
+=> res/color/m3_timepicker_display_text_color.xml
+=> res/color/m3_timepicker_secondary_text_button_ripple_color.xml
+=> res/color/m3_timepicker_secondary_text_button_text_color.xml
+=> res/color/m3_tonal_button_ripple_color_selector.xml
+=> res/color/material_cursor_color.xml
+=> res/color/material_divider_color.xml
+=> res/color/material_on_background_disabled.xml
+=> res/color/material_on_background_emphasis_high_type.xml
+=> res/color/material_on_background_emphasis_medium.xml
+=> res/color/material_on_primary_disabled.xml
+=> res/color/material_on_primary_emphasis_high_type.xml
+=> res/color/material_on_primary_emphasis_medium.xml
+=> res/color/material_on_surface_disabled.xml
+=> res/color/material_on_surface_emphasis_high_type.xml
+=> res/color/material_on_surface_emphasis_medium.xml
+=> res/color/material_on_surface_stroke.xml
+=> res/color/material_slider_active_tick_marks_color.xml
+=> res/color/material_slider_active_track_color.xml
+=> res/color/material_slider_halo_color.xml
+=> res/color/material_slider_inactive_tick_marks_color.xml
+=> res/color/material_slider_inactive_track_color.xml
+=> res/color/material_slider_thumb_color.xml
+=> res/color/material_timepicker_button_background.xml
+=> res/color/material_timepicker_button_stroke.xml
+=> res/color/material_timepicker_clock_text_color.xml
+=> res/color/material_timepicker_clockface.xml
+=> res/color/material_timepicker_modebutton_tint.xml
+=> res/color/mtrl_btn_bg_color_selector.xml
+=> res/color/mtrl_btn_ripple_color.xml
+=> res/color/mtrl_btn_stroke_color_selector.xml
+=> res/color/mtrl_btn_text_btn_bg_color_selector.xml
+=> res/color/mtrl_btn_text_btn_ripple_color.xml
+=> res/color/mtrl_btn_text_color_selector.xml
+=> res/color/mtrl_calendar_item_stroke_color.xml
+=> res/color/mtrl_calendar_selected_range.xml
+=> res/color/mtrl_card_view_foreground.xml
+=> res/color/mtrl_card_view_ripple.xml
+=> res/color/mtrl_chip_background_color.xml
+=> res/color/mtrl_chip_close_icon_tint.xml
+=> res/color/mtrl_chip_surface_color.xml
+=> res/color/mtrl_chip_text_color.xml
+=> res/color/mtrl_choice_chip_background_color.xml
+=> res/color/mtrl_choice_chip_ripple_color.xml
+=> res/color/mtrl_choice_chip_text_color.xml
+=> res/color/mtrl_error.xml
+=> res/color/mtrl_fab_bg_color_selector.xml
+=> res/color/mtrl_fab_icon_text_color_selector.xml
+=> res/color/mtrl_fab_ripple_color.xml
+=> res/color/mtrl_filled_background_color.xml
+=> res/color/mtrl_filled_icon_tint.xml
+=> res/color/mtrl_filled_stroke_color.xml
+=> res/color/mtrl_indicator_text_color.xml
+=> res/color/mtrl_navigation_bar_colored_item_tint.xml
+=> res/color/mtrl_navigation_bar_colored_ripple_color.xml
+=> res/color/mtrl_navigation_bar_item_tint.xml
+=> res/color/mtrl_navigation_bar_ripple_color.xml
+=> res/color/mtrl_navigation_item_background_color.xml
+=> res/color/mtrl_navigation_item_icon_tint.xml
+=> res/color/mtrl_navigation_item_text_color.xml
+=> res/color/mtrl_on_primary_text_btn_text_color_selector.xml
+=> res/color/mtrl_on_surface_ripple_color.xml
+=> res/color/mtrl_outlined_icon_tint.xml
+=> res/color/mtrl_outlined_stroke_color.xml
+=> res/color/mtrl_popupmenu_overlay_color.xml
+=> res/color/mtrl_tabs_colored_ripple_color.xml
+=> res/color/mtrl_tabs_icon_color_selector.xml
+=> res/color/mtrl_tabs_icon_color_selector_colored.xml
+=> res/color/mtrl_tabs_legacy_text_color_selector.xml
+=> res/color/mtrl_tabs_ripple_color.xml
+=> res/color/mtrl_text_btn_text_color_selector.xml
+=> res/color/radiobutton_themeable_attribute_color.xml
+=> res/color/switch_thumb_material_dark.xml
+=> res/color/switch_thumb_material_light.xml
+=> res/color/test_mtrl_calendar_day.xml
+=> res/color/test_mtrl_calendar_day_selected.xml
+=> res/color-night-v8/material_timepicker_button_stroke.xml
+=> res/color-night-v8/material_timepicker_clockface.xml
+=> res/color-night-v8/material_timepicker_modebutton_tint.xml
+=> res/color-v31/m3_dynamic_dark_default_color_primary_text.xml
+=> res/color-v31/m3_dynamic_dark_default_color_secondary_text.xml
+=> res/color-v31/m3_dynamic_dark_highlighted_text.xml
+=> res/color-v31/m3_dynamic_dark_hint_foreground.xml
+=> res/color-v31/m3_dynamic_dark_primary_text_disable_only.xml
+=> res/color-v31/m3_dynamic_default_color_primary_text.xml
+=> res/color-v31/m3_dynamic_default_color_secondary_text.xml
+=> res/color-v31/m3_dynamic_highlighted_text.xml
+=> res/color-v31/m3_dynamic_hint_foreground.xml
+=> res/color-v31/m3_dynamic_primary_text_disable_only.xml
+=> res/drawable/$avd_hide_password__0.xml
+=> res/drawable/$avd_hide_password__1.xml
+=> res/drawable/$avd_hide_password__2.xml
+=> res/drawable/$avd_show_password__0.xml
+=> res/drawable/$avd_show_password__1.xml
+=> res/drawable/$avd_show_password__2.xml
+=> res/drawable-v21/abc_action_bar_item_background_material.xml
+=> res/drawable/abc_btn_borderless_material.xml
+=> res/drawable/abc_btn_check_material.xml
+=> res/drawable/abc_btn_check_material_anim.xml
+=> res/drawable-v21/abc_btn_colored_material.xml
+=> res/drawable/abc_btn_default_mtrl_shape.xml
+=> res/drawable/abc_btn_radio_material.xml
+=> res/drawable/abc_btn_radio_material_anim.xml
+=> res/drawable/abc_cab_background_internal_bg.xml
+=> res/drawable/abc_cab_background_top_material.xml
+=> res/drawable-v23/abc_control_background_material.xml
+=> res/drawable-v21/abc_dialog_material_background.xml
+=> res/drawable-v21/abc_edit_text_material.xml
+=> res/drawable/abc_ic_ab_back_material.xml
+=> res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+=> res/drawable/abc_ic_clear_material.xml
+=> res/drawable/abc_ic_go_search_api_material.xml
+=> res/drawable/abc_ic_menu_copy_mtrl_am_alpha.xml
+=> res/drawable/abc_ic_menu_cut_mtrl_alpha.xml
+=> res/drawable/abc_ic_menu_overflow_material.xml
+=> res/drawable/abc_ic_menu_paste_mtrl_am_alpha.xml
+=> res/drawable/abc_ic_menu_selectall_mtrl_alpha.xml
+=> res/drawable/abc_ic_menu_share_mtrl_alpha.xml
+=> res/drawable/abc_ic_search_api_material.xml
+=> res/drawable/abc_ic_voice_search_api_material.xml
+=> res/drawable/abc_item_background_holo_dark.xml
+=> res/drawable/abc_item_background_holo_light.xml
+=> res/drawable-v21/abc_list_divider_material.xml
+=> res/drawable/abc_list_selector_background_transition_holo_dark.xml
+=> res/drawable/abc_list_selector_background_transition_holo_light.xml
+=> res/drawable/abc_list_selector_holo_dark.xml
+=> res/drawable/abc_list_selector_holo_light.xml
+=> res/drawable/abc_ratingbar_indicator_material.xml
+=> res/drawable/abc_ratingbar_material.xml
+=> res/drawable/abc_ratingbar_small_material.xml
+=> res/drawable/abc_seekbar_thumb_material.xml
+=> res/drawable/abc_seekbar_tick_mark_material.xml
+=> res/drawable/abc_seekbar_track_material.xml
+=> res/drawable/abc_spinner_textfield_background_material.xml
+=> res/drawable/abc_star_black_48dp.xml
+=> res/drawable/abc_star_half_black_48dp.xml
+=> res/drawable/abc_switch_thumb_material.xml
+=> res/drawable/abc_tab_indicator_material.xml
+=> res/drawable/abc_text_cursor_material.xml
+=> res/drawable/abc_textfield_search_material.xml
+=> res/drawable/abc_vector_test.xml
+=> res/drawable/avd_hide_password.xml
+=> res/drawable/avd_show_password.xml
+=> res/drawable/btn_checkbox_checked_mtrl.xml
+=> res/drawable/btn_checkbox_checked_to_unchecked_mtrl_animation.xml
+=> res/drawable/btn_checkbox_unchecked_mtrl.xml
+=> res/drawable/btn_checkbox_unchecked_to_checked_mtrl_animation.xml
+=> res/drawable/btn_radio_off_mtrl.xml
+=> res/drawable/btn_radio_off_to_on_mtrl_animation.xml
+=> res/drawable/btn_radio_on_mtrl.xml
+=> res/drawable/btn_radio_on_to_off_mtrl_animation.xml
+=> res/drawable/design_fab_background.xml
+=> res/drawable/design_ic_visibility.xml
+=> res/drawable/design_ic_visibility_off.xml
+=> res/drawable/design_password_eye.xml
+=> res/drawable/design_snackbar_background.xml
+=> res/drawable/ic_clock_black_24dp.xml
+=> res/drawable/ic_keyboard_black_24dp.xml
+=> res/drawable/ic_m3_chip_check.xml
+=> res/drawable/ic_m3_chip_checked_circle.xml
+=> res/drawable/ic_m3_chip_close.xml
+=> res/drawable/ic_mtrl_checked_circle.xml
+=> res/drawable/ic_mtrl_chip_checked_black.xml
+=> res/drawable/ic_mtrl_chip_checked_circle.xml
+=> res/drawable/ic_mtrl_chip_close_circle.xml
+=> res/drawable-v23/m3_appbar_background.xml
+=> res/drawable-v23/m3_popupmenu_background_overlay.xml
+=> res/drawable-v23/m3_radiobutton_ripple.xml
+=> res/drawable-v23/m3_selection_control_ripple.xml
+=> res/drawable-v23/m3_tabs_background.xml
+=> res/drawable/m3_tabs_line_indicator.xml
+=> res/drawable/m3_tabs_rounded_line_indicator.xml
+=> res/drawable-v23/m3_tabs_transparent_background.xml
+=> res/drawable-v21/material_cursor_drawable.xml
+=> res/drawable/material_ic_calendar_black_24dp.xml
+=> res/drawable/material_ic_clear_black_24dp.xml
+=> res/drawable/material_ic_edit_black_24dp.xml
+=> res/drawable/material_ic_keyboard_arrow_left_black_24dp.xml
+=> res/drawable/material_ic_keyboard_arrow_right_black_24dp.xml
+=> res/drawable/material_ic_menu_arrow_down_black_24dp.xml
+=> res/drawable/material_ic_menu_arrow_up_black_24dp.xml
+=> res/drawable/mtrl_dialog_background.xml
+=> res/drawable/mtrl_dropdown_arrow.xml
+=> res/drawable/mtrl_ic_arrow_drop_down.xml
+=> res/drawable/mtrl_ic_arrow_drop_up.xml
+=> res/drawable/mtrl_ic_cancel.xml
+=> res/drawable/mtrl_ic_error.xml
+=> res/drawable-v21/mtrl_navigation_bar_item_background.xml
+=> res/drawable/mtrl_popupmenu_background.xml
+=> res/drawable-v23/mtrl_popupmenu_background_overlay.xml
+=> res/drawable/mtrl_tabs_default_indicator.xml
+=> res/drawable/navigation_empty_icon.xml
+=> res/drawable-v21/notification_action_background.xml
+=> res/drawable/notification_bg.xml
+=> res/drawable/notification_bg_low.xml
+=> res/drawable/notification_icon_background.xml
+=> res/drawable/notification_tile_bg.xml
+=> res/drawable/test_custom_background.xml
+=> res/drawable/test_level_drawable.xml
+=> res/drawable/tooltip_frame_dark.xml
+=> res/drawable/tooltip_frame_light.xml
+=> res/drawable-watch-v20/abc_dialog_material_background.xml
+=> res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+=> res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+=> res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+=> res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+=> res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+=> res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+=> res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+=> res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+=> res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+=> res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+=> res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+=> res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+=> res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+=> res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+=> res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+=> res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+=> res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+=> res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+=> res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl.png
+=> res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl.png
+=> res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl.png
+=> res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+=> res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+=> res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+=> res/drawable-mdpi-v4/notification_bg_normal.9.png
+=> res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+=> res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+=> res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+=> res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+=> res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+=> res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+=> res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+=> res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+=> res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+=> res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+=> res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+=> res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+=> res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+=> res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+=> res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+=> res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+=> res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+=> res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+=> res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+=> res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+=> res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl.png
+=> res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl.png
+=> res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl.png
+=> res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+=> res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+=> res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+=> res/drawable-hdpi-v4/notification_bg_normal.9.png
+=> res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+=> res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+=> res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+=> res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+=> res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+=> res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+=> res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+=> res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+=> res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+=> res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+=> res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+=> res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+=> res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+=> res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+=> res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+=> res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+=> res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+=> res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+=> res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+=> res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+=> res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl.png
+=> res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl.png
+=> res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl.png
+=> res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+=> res/drawable-xhdpi-v4/default_image.png
+=> res/drawable-xhdpi-v4/exit.xml
+=> res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+=> res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+=> res/drawable-xhdpi-v4/notification_bg_normal.9.png
+=> res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+=> res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+=> res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+=> res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+=> res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+=> res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+=> res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+=> res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+=> res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+=> res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+=> res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+=> res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+=> res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+=> res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+=> res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+=> res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+=> res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+=> res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+=> res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+=> res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+=> res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl.png
+=> res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl.png
+=> res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl.png
+=> res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+=> res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+=> res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+=> res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+=> res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+=> res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+=> res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+=> res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+=> res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+=> res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+=> res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+=> res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+=> res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+=> res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl.png
+=> res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl.png
+=> res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+=> res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml
+=> res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml
+=> res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml
+=> res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml
+=> res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml
+=> res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml
+=> res/interpolator/fast_out_slow_in.xml
+=> res/interpolator-v21/mtrl_fast_out_linear_in.xml
+=> res/interpolator-v21/mtrl_fast_out_slow_in.xml
+=> res/interpolator/mtrl_linear.xml
+=> res/interpolator-v21/mtrl_linear_out_slow_in.xml
+=> res/layout/abc_action_bar_title_item.xml
+=> res/layout/abc_action_bar_up_container.xml
+=> res/layout/abc_action_menu_item_layout.xml
+=> res/layout/abc_action_menu_layout.xml
+=> res/layout/abc_action_mode_bar.xml
+=> res/layout/abc_action_mode_close_item_material.xml
+=> res/layout/abc_activity_chooser_view.xml
+=> res/layout/abc_activity_chooser_view_list_item.xml
+=> res/layout/abc_alert_dialog_button_bar_material.xml
+=> res/layout/abc_alert_dialog_material.xml
+=> res/layout/abc_alert_dialog_title_material.xml
+=> res/layout/abc_cascading_menu_item_layout.xml
+=> res/layout/abc_dialog_title_material.xml
+=> res/layout/abc_expanded_menu_layout.xml
+=> res/layout/abc_list_menu_item_checkbox.xml
+=> res/layout/abc_list_menu_item_icon.xml
+=> res/layout/abc_list_menu_item_layout.xml
+=> res/layout/abc_list_menu_item_radio.xml
+=> res/layout/abc_popup_menu_header_item_layout.xml
+=> res/layout/abc_popup_menu_item_layout.xml
+=> res/layout/abc_screen_content_include.xml
+=> res/layout/abc_screen_simple.xml
+=> res/layout/abc_screen_simple_overlay_action_mode.xml
+=> res/layout-v26/abc_screen_toolbar.xml
+=> res/layout/abc_search_dropdown_item_icons_2line.xml
+=> res/layout/abc_search_view.xml
+=> res/layout/abc_select_dialog_material.xml
+=> res/layout/abc_tooltip.xml
+=> res/layout/custom_dialog.xml
+=> res/layout/design_bottom_navigation_item.xml
+=> res/layout/design_bottom_sheet_dialog.xml
+=> res/layout/design_layout_snackbar.xml
+=> res/layout/design_layout_snackbar_include.xml
+=> res/layout/design_layout_tab_icon.xml
+=> res/layout/design_layout_tab_text.xml
+=> res/layout/design_menu_item_action_area.xml
+=> res/layout/design_navigation_item.xml
+=> res/layout/design_navigation_item_header.xml
+=> res/layout/design_navigation_item_separator.xml
+=> res/layout/design_navigation_item_subheader.xml
+=> res/layout/design_navigation_menu.xml
+=> res/layout/design_navigation_menu_item.xml
+=> res/layout/design_text_input_end_icon.xml
+=> res/layout/design_text_input_start_icon.xml
+=> res/layout/m3_alert_dialog.xml
+=> res/layout/m3_alert_dialog_actions.xml
+=> res/layout/m3_alert_dialog_title.xml
+=> res/layout/m3_auto_complete_simple_item.xml
+=> res/layout/main.xml
+=> res/layout/material_chip_input_combo.xml
+=> res/layout/material_clock_display.xml
+=> res/layout/material_clock_display_divider.xml
+=> res/layout/material_clock_period_toggle.xml
+=> res/layout/material_clockface_textview.xml
+=> res/layout/material_clockface_view.xml
+=> res/layout/material_radial_view_group.xml
+=> res/layout/material_textinput_timepicker.xml
+=> res/layout/material_time_chip.xml
+=> res/layout/material_time_input.xml
+=> res/layout/material_timepicker.xml
+=> res/layout/material_timepicker_dialog.xml
+=> res/layout/material_timepicker_textinput_display.xml
+=> res/layout/mtrl_alert_dialog.xml
+=> res/layout/mtrl_alert_dialog_actions.xml
+=> res/layout/mtrl_alert_dialog_title.xml
+=> res/layout/mtrl_alert_select_dialog_item.xml
+=> res/layout/mtrl_alert_select_dialog_multichoice.xml
+=> res/layout/mtrl_alert_select_dialog_singlechoice.xml
+=> res/layout/mtrl_auto_complete_simple_item.xml
+=> res/layout/mtrl_calendar_day.xml
+=> res/layout/mtrl_calendar_day_of_week.xml
+=> res/layout/mtrl_calendar_days_of_week.xml
+=> res/layout/mtrl_calendar_horizontal.xml
+=> res/layout-v26/mtrl_calendar_month.xml
+=> res/layout/mtrl_calendar_month_labeled.xml
+=> res/layout/mtrl_calendar_month_navigation.xml
+=> res/layout/mtrl_calendar_months.xml
+=> res/layout/mtrl_calendar_vertical.xml
+=> res/layout/mtrl_calendar_year.xml
+=> res/layout/mtrl_layout_snackbar.xml
+=> res/layout/mtrl_layout_snackbar_include.xml
+=> res/layout/mtrl_navigation_rail_item.xml
+=> res/layout/mtrl_picker_actions.xml
+=> res/layout/mtrl_picker_dialog.xml
+=> res/layout/mtrl_picker_fullscreen.xml
+=> res/layout/mtrl_picker_header_dialog.xml
+=> res/layout/mtrl_picker_header_fullscreen.xml
+=> res/layout/mtrl_picker_header_selection_text.xml
+=> res/layout/mtrl_picker_header_title_text.xml
+=> res/layout/mtrl_picker_header_toggle.xml
+=> res/layout/mtrl_picker_text_input_date.xml
+=> res/layout/mtrl_picker_text_input_date_range.xml
+=> res/layout-v21/notification_action.xml
+=> res/layout-v21/notification_action_tombstone.xml
+=> res/layout-v21/notification_template_custom_big.xml
+=> res/layout-v21/notification_template_icon_group.xml
+=> res/layout/notification_template_part_chronometer.xml
+=> res/layout/notification_template_part_time.xml
+=> res/layout/select_dialog_item_material.xml
+=> res/layout/select_dialog_multichoice_material.xml
+=> res/layout/select_dialog_singlechoice_material.xml
+=> res/layout/support_simple_spinner_dropdown_item.xml
+=> res/layout/test_action_chip.xml
+=> res/layout/test_chip_zero_corner_radius.xml
+=> res/layout/test_design_checkbox.xml
+=> res/layout/test_design_radiobutton.xml
+=> res/layout/test_exposed_dropdown_menu.xml
+=> res/layout/test_navigation_bar_item_layout.xml
+=> res/layout/test_reflow_chipgroup.xml
+=> res/layout/test_toolbar.xml
+=> res/layout/test_toolbar_custom_background.xml
+=> res/layout/test_toolbar_elevation.xml
+=> res/layout/test_toolbar_surface.xml
+=> res/layout/text_view_with_line_height_from_appearance.xml
+=> res/layout/text_view_with_line_height_from_layout.xml
+=> res/layout/text_view_with_line_height_from_style.xml
+=> res/layout/text_view_with_theme_line_height.xml
+=> res/layout/text_view_without_line_height.xml
+=> res/layout-sw600dp-v13/design_layout_snackbar.xml
+=> res/layout-sw600dp-v13/mtrl_layout_snackbar.xml
+=> res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml
+=> res/layout-watch-v20/abc_alert_dialog_title_material.xml
+=> res/layout-ldrtl-v17/material_textinput_timepicker.xml
+=> res/layout-land/material_clock_period_toggle_land.xml
+=> res/layout-land/material_timepicker.xml
+=> res/layout-land/mtrl_picker_header_dialog.xml
+=> res/menu/example_menu.xml
+=> res/menu/example_menu2.xml
+=> res/mipmap-xhdpi-v4/ic_launcher.png
+=> res/xml/standalone_badge.xml
+=> res/xml/standalone_badge_gravity_bottom_end.xml
+=> res/xml/standalone_badge_gravity_bottom_start.xml
+=> res/xml/standalone_badge_gravity_top_start.xml
+=> res/xml/standalone_badge_offset.xml
+=> resources.arsc
+/data/user/0/pro.sketchware/files/libs/dexs/http-legacy-android-28.dex => classes.dex
+/data/user/0/pro.sketchware/files/libs/libs/appcompat-1.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/activity-1.3.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/annotation-1.3.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/collection-1.2.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/core-1.7.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/annotation-experimental-1.2.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/concurrent-futures-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/listenablefuture-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-runtime-2.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/core-common-2.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/core-runtime-2.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-common-2.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/versionedparcelable-1.1.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-2.3.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-viewmodel-savedstate-2.3.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/savedstate-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-livedata-core-2.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/tracing-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/appcompat-resources-1.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/vectordrawable-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/vectordrawable-animated-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/interpolator-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/cursoradapter-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/drawerlayout-1.1.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/customview-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/emoji2-1.0.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-process-2.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/startup-runtime-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/emoji2-views-helper-1.0.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/fragment-1.3.6/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/loader-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/lifecycle-livedata-2.4.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/viewpager-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/resourceinspection-annotation-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/coordinatorlayout-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/material-1.6.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/cardview-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/constraintlayout-2.1.2/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/constraintlayout-core-1.0.2/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/dynamic-animation-1.1.0-alpha03/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/recyclerview-1.2.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/legacy-support-core-ui-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/asynclayoutinflater-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/legacy-support-core-utils-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/documentfile-1.0.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/localbroadcastmanager-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/print-1.0.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/slidingpanelayout-1.1.0/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/swiperefreshlayout-1.2.0-alpha01/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/transition-1.4.1/classes.jar:
+/data/user/0/pro.sketchware/files/libs/libs/viewpager2-1.0.0/classes.jar:
+Native folder: /storage/emulated/0/.sketchware/data/601/files/native_libs
+/data/user/0/pro.sketchware/files/libs/dexs/appcompat-1.4.0.dex => classes2.dex
+/data/user/0/pro.sketchware/files/libs/dexs/activity-1.3.0.dex => classes3.dex
+/data/user/0/pro.sketchware/files/libs/dexs/annotation-1.3.0.dex => classes4.dex
+/data/user/0/pro.sketchware/files/libs/dexs/collection-1.2.0.dex => classes5.dex
+/data/user/0/pro.sketchware/files/libs/dexs/core-1.7.0.dex => classes6.dex
+/data/user/0/pro.sketchware/files/libs/dexs/annotation-experimental-1.2.0.dex => classes7.dex
+/data/user/0/pro.sketchware/files/libs/dexs/concurrent-futures-1.1.0.dex => classes8.dex
+/data/user/0/pro.sketchware/files/libs/dexs/listenablefuture-1.0.0.dex => classes9.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-runtime-2.4.0.dex => classes10.dex
+/data/user/0/pro.sketchware/files/libs/dexs/core-common-2.1.0.dex => classes11.dex
+/data/user/0/pro.sketchware/files/libs/dexs/core-runtime-2.1.0.dex => classes12.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-common-2.4.0.dex => classes13.dex
+/data/user/0/pro.sketchware/files/libs/dexs/versionedparcelable-1.1.1.dex => classes14.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-viewmodel-2.3.1.dex => classes15.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-viewmodel-savedstate-2.3.1.dex => classes16.dex
+/data/user/0/pro.sketchware/files/libs/dexs/savedstate-1.1.0.dex => classes17.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-livedata-core-2.4.0.dex => classes18.dex
+/data/user/0/pro.sketchware/files/libs/dexs/tracing-1.0.0.dex => classes19.dex
+/data/user/0/pro.sketchware/files/libs/dexs/appcompat-resources-1.4.0.dex => classes20.dex
+/data/user/0/pro.sketchware/files/libs/dexs/vectordrawable-1.1.0.dex => classes21.dex
+/data/user/0/pro.sketchware/files/libs/dexs/vectordrawable-animated-1.1.0.dex => classes22.dex
+/data/user/0/pro.sketchware/files/libs/dexs/interpolator-1.0.0.dex => classes23.dex
+/data/user/0/pro.sketchware/files/libs/dexs/cursoradapter-1.0.0.dex => classes24.dex
+/data/user/0/pro.sketchware/files/libs/dexs/drawerlayout-1.1.1.dex => classes25.dex
+/data/user/0/pro.sketchware/files/libs/dexs/customview-1.1.0.dex => classes26.dex
+/data/user/0/pro.sketchware/files/libs/dexs/emoji2-1.0.1.dex => classes27.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-process-2.4.0.dex => classes28.dex
+/data/user/0/pro.sketchware/files/libs/dexs/startup-runtime-1.1.0.dex => classes29.dex
+/data/user/0/pro.sketchware/files/libs/dexs/emoji2-views-helper-1.0.1.dex => classes30.dex
+/data/user/0/pro.sketchware/files/libs/dexs/fragment-1.3.6.dex => classes31.dex
+/data/user/0/pro.sketchware/files/libs/dexs/loader-1.1.0.dex => classes32.dex
+/data/user/0/pro.sketchware/files/libs/dexs/lifecycle-livedata-2.4.0.dex => classes33.dex
+/data/user/0/pro.sketchware/files/libs/dexs/viewpager-1.0.0.dex => classes34.dex
+/data/user/0/pro.sketchware/files/libs/dexs/resourceinspection-annotation-1.0.0.dex => classes35.dex
+/data/user/0/pro.sketchware/files/libs/dexs/coordinatorlayout-1.1.0.dex => classes36.dex
+/data/user/0/pro.sketchware/files/libs/dexs/material-1.6.1.dex => classes37.dex
+/data/user/0/pro.sketchware/files/libs/dexs/cardview-1.0.0.dex => classes38.dex
+/data/user/0/pro.sketchware/files/libs/dexs/constraintlayout-2.1.2.dex => classes39.dex
+/data/user/0/pro.sketchware/files/libs/dexs/constraintlayout-core-1.0.2.dex => classes40.dex
+/data/user/0/pro.sketchware/files/libs/dexs/dynamic-animation-1.1.0-alpha03.dex => classes41.dex
+/data/user/0/pro.sketchware/files/libs/dexs/recyclerview-1.2.1.dex => classes42.dex
+/data/user/0/pro.sketchware/files/libs/dexs/legacy-support-core-ui-1.0.0.dex => classes43.dex
+/data/user/0/pro.sketchware/files/libs/dexs/asynclayoutinflater-1.0.0.dex => classes44.dex
+/data/user/0/pro.sketchware/files/libs/dexs/legacy-support-core-utils-1.0.0.dex => classes45.dex
+/data/user/0/pro.sketchware/files/libs/dexs/documentfile-1.0.1.dex => classes46.dex
+/data/user/0/pro.sketchware/files/libs/dexs/localbroadcastmanager-1.0.0.dex => classes47.dex
+/data/user/0/pro.sketchware/files/libs/dexs/print-1.0.0.dex => classes48.dex
+/data/user/0/pro.sketchware/files/libs/dexs/slidingpanelayout-1.1.0.dex => classes49.dex
+/data/user/0/pro.sketchware/files/libs/dexs/swiperefreshlayout-1.2.0-alpha01.dex => classes50.dex
+/data/user/0/pro.sketchware/files/libs/dexs/transition-1.4.1.dex => classes51.dex
+/data/user/0/pro.sketchware/files/libs/dexs/viewpager2-1.0.0.dex => classes52.dex
+/storage/emulated/0/.sketchware/mysc/601/bin/dex/classes2.dex => classes53.dex
+/storage/emulated/0/.sketchware/mysc/601/bin/dex/classes.dex => classes54.dex
+2025-08-21T02:05:52.601+0700 D/AppBuilder: Time passed since starting to compile resources until building the unsigned APK: 63101 ms
